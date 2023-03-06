@@ -1,0 +1,1 @@
+"C:\Users\aceorq\Documents\UnrealEngine\Engine\Binaries\Win64\UnrealEditor.exe" "C:\Users\aceorq\Documents\Unreal Projects\Throne\Throne.uproject" -game -ResX=1600 -ResY=900 -WINDOWED -log -trace=log,counters,cpu,frame,bookmark,file,loadtime,gpu,rhicommands,rendercommands,object -statnamedevents
